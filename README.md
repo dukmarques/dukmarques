@@ -24,8 +24,6 @@ Vejo a programação como uma ferramenta que nos possibilita desenvolver novas e
 
 ### Languages and Tools
 
-<br/>
-
 #### Atualmente:
 
 <p align="left">
@@ -66,8 +64,6 @@ Vejo a programação como uma ferramenta que nos possibilita desenvolver novas e
   </a>
 </p>
 
-<br/>
-
 #### Tenho interesse: 
 
 <p align="left">
@@ -107,8 +103,6 @@ Vejo a programação como uma ferramenta que nos possibilita desenvolver novas e
     />
   </a>
 </p>
-
-<br/>
 
 ### Sociais & Portfólio
 
