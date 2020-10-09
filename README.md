@@ -1,6 +1,8 @@
 ### Hello World, eu sou o Eduardo Marques! 👨‍💻 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-Atualmente sou estudante de Engenharia de Computação - UEFS, e desenvolvedor web (atualmente com foco em Front).
+Atualmente sou graduando em Engenharia de Computação - UEFS, e desenvolvedor web (atualmente com foco em Front).
+
+##### À procura de um estágio :eyes: :sweat_smile:
 
 <p align="center">
   <a href="https://github.com/dukmarques/github-readme-stats">
@@ -27,39 +29,39 @@ Vejo a programação como uma ferramenta que nos possibilita desenvolver novas e
 #### Atualmente:
 
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5" target="_blank">
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg"
-      alt="aws"
-      width="80"
-      height="80"
+      alt="html5"
+      width="60"
+      height="60"
     />
   </a>
   
-  <a href="https://aws.amazon.com" target="_blank">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg"
-      alt="aws"
-      width="80"
-      height="80"
+      alt="css3"
+      width="60"
+      height="60"
     />
   </a>
 
-  <a href="https://aws.amazon.com" target="_blank">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript" target="_blank">
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
-      alt="aws"
-      width="80"
-      height="80"
+      alt="javascript"
+      width="60"
+      height="60"
     />
   </a>
 
-  <a href="https://aws.amazon.com" target="_blank">
+  <a href="https://getbootstrap.com/" target="_blank">
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="aws"
-      width="80"
-      height="80"
+      alt="bootstrap"
+      width="60"
+      height="60"
     />
   </a>
 </p>
@@ -68,21 +70,47 @@ Vejo a programação como uma ferramenta que nos possibilita desenvolver novas e
 
 #### Tenho interesse: 
 
+<p align="left">
+  <a href="https://pt-br.reactjs.org/" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"
+      alt="react"
+      width="60"
+      height="60"
+    />
+  </a>
 
+  <a href="https://nodejs.org/pt-br/" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="node"
+      width="60"
+      height="60"
+    />
+  </a>
+  
+  <a href="https://www.php.net/manual/pt_BR/intro-whatis.php" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg"
+      alt="php"
+      width="60"
+      height="60"
+    />
+  </a>
+
+  <a href="https://laravel.com/" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg"
+      alt="laravel"
+      width="60"
+      height="60"
+    />
+  </a>
+</p>
 
 <br/>
 
-<!--
-**dukmarques/dukmarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sociais & Portfólio
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <a href="https://www.linkedin.com/in/dukmarques/">LinkedIn</a> 💼 
+- <a href="https://dukmarques.github.io/">Porfólio</a> :computer:
