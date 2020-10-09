@@ -1,6 +1,6 @@
-### Hello World, eu sou o Eduardo Marques! 👨‍💻 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+### Hello World, eu sou o Eduardo Marques! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-Atualmente sou graduando em Engenharia de Computação - UEFS, e desenvolvedor web (atualmente com foco em Front).
+👨‍💻  Atualmente sou graduando em Engenharia de Computação - UEFS, e desenvolvedor web (atualmente com foco em Front).
 
 ##### À procura de um estágio :eyes: :sweat_smile:
 
@@ -19,8 +19,6 @@ Atualmente sou graduando em Engenharia de Computação - UEFS, e desenvolvedor w
     />
   </a>
 </p>
-
-Vejo a programação como uma ferramenta que nos possibilita desenvolver novas experiências, alcançar objetivos sociais e pessoais, uma oportunidade de melhorar a vida das pessoas, assim como a minha também.
 
 ### Languages and Tools
 
