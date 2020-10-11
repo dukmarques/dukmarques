@@ -2,8 +2,6 @@
 
 👨‍💻  Atualmente sou graduando em Engenharia de Computação - UEFS, e desenvolvedor web (atualmente com foco em Front).
 
-##### À procura de um estágio :eyes: :sweat_smile:
-
 <p align="center">
   <a href="https://github.com/dukmarques/github-readme-stats">
     <img
