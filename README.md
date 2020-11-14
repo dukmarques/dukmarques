@@ -49,6 +49,15 @@
       height="60"
     />
   </a>
+  
+  <a href="https://sass-lang.com/" target="_blank">
+   <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg"
+      alt="sass"
+      width="60"
+      height="60"
+    />
+  </a>
 
   <a href="https://getbootstrap.com/" target="_blank">
     <img
