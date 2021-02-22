@@ -1,6 +1,6 @@
 ### Hello World, eu sou o Eduardo Marques! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-👨‍💻  Atualmente sou graduando em Engenharia de Computação - UEFS, e desenvolvedor web (atualmente com foco em Front).
+👨‍💻  Atualmente sou graduando em Engenharia de Computação - UEFS.
 
 <p align="center">
   <a href="https://github.com/dukmarques/github-readme-stats">
