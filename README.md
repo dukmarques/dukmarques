@@ -1,6 +1,14 @@
-### Hello World, eu sou o Eduardo Marques! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Eduardo Marques, prazer! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-👨‍💻  Atualmente sou graduando em Engenharia de Computação - UEFS.
+- 👨🏽‍💻 Profissionalmente atuo como Desenvolvedor Full-Stack e Pesquisador na RNP.
+- 📱 Tenho interesse em Engenharia de Software e Desenvolvimento Mobile.
+- 📚 Graduando em Engenharia de Computação - UEFS.
+
+---
+- 💼 <a href="https://www.linkedin.com/in/dukmarques/">LinkedIn</a>
+- 👨🏽‍💻 <a href="https://dukmarques.github.io/">Porfólio</a>
+
+---
 
 <p align="center">
   <a href="https://github.com/dukmarques/github-readme-stats">
@@ -17,8 +25,3 @@
     />
   </a>
 </p>
-
-### Sociais & Portfólio
-
-- <a href="https://www.linkedin.com/in/dukmarques/">LinkedIn</a> 💼 
-- <a href="https://dukmarques.github.io/">Porfólio</a> :computer:
