@@ -6,7 +6,6 @@
 
 ---
 - 💼 <a href="https://www.linkedin.com/in/dukmarques/">LinkedIn</a>
-- 👨🏽‍💻 <a href="https://dukmarques.github.io/">Porfólio</a>
 
 ---
 
