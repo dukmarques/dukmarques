@@ -4,23 +4,12 @@
 - 📱 Tenho interesse em Engenharia de Software e Desenvolvimento Mobile.
 - 📚 Graduando em Engenharia de Computação - UEFS.
 
----
 - 💼 <a href="https://www.linkedin.com/in/dukmarques/">LinkedIn</a>
 
 ---
 
-<p align="center">
-  <a href="https://github.com/dukmarques/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dukmarques&layout=compact"
-    />
-  </a>
-  <a href="https://github.com/dukmarques/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=dukmarques&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
-    />
-  </a>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dukmarques&layout=compact&langs_count=7"/>
+    <a href="https://github.com/dukmarques">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dukmarques&show_icons=true&include_all_commits=true&count_private=true"/>
+</div>
