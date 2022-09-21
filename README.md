@@ -1,8 +1,8 @@
 ## Eduardo Marques, prazer! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
+- 📚 Graduando em Engenharia de Computação pela Universidade Estadual de Feira de Santana - UEFS.
 - 👨🏽‍💻 Profissionalmente atuo como Desenvolvedor Full-Stack e Pesquisador na RNP.
-- 📱 Tenho interesse em Engenharia de Software e Desenvolvimento Mobile.
-- 📚 Graduando em Engenharia de Computação - UEFS.
+- 🎯 Atualmente focado em Typescript, React, Next.js, Sass e ReactNative.
 
 - 💼 <a href="https://www.linkedin.com/in/dukmarques/">LinkedIn</a>
 
